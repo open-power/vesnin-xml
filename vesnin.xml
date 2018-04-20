@@ -13287,7 +13287,7 @@
 	</attribute>
 	<attribute>
 		<id>BMC_FRU_ID</id>
-		<default>47</default>
+		<default>254</default>
 	</attribute>
 	<attribute>
 		<id>BOOT_FREQ_MHZ</id>
