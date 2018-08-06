@@ -13694,7 +13694,7 @@
 	</attribute>
 	<attribute>
 		<id>HIDDEN_ERRLOGS_ENABLE</id>
-		<default>0x03</default>
+		<default>0x00</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
