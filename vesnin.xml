@@ -13696,6 +13696,10 @@
 		<id>HIDDEN_ERRLOGS_ENABLE</id>
 		<default>0x00</default>
 	</attribute>
+	<attribute>
+		<id>MRW_NEST_CAPABLE_FREQUENCIES_SYS</id>
+		<default>2000_MHZ_OR_2400_MHZ</default>
+	</attribute>
 </targetInstance>
 <targetInstance>
 	<id>node-0</id>
