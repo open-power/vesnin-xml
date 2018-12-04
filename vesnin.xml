@@ -2186,7 +2186,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF0</value>
+			<value>MEMBUF1</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -2696,7 +2696,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF1</value>
+			<value>MEMBUF0</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -3254,7 +3254,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF10</value>
+			<value>MEMBUF21</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -3820,7 +3820,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF11</value>
+			<value>MEMBUF20</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4386,7 +4386,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF12</value>
+			<value>MEMBUF25</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4952,7 +4952,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF13</value>
+			<value>MEMBUF24</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -5518,7 +5518,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF14</value>
+			<value>MEMBUF29</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -6084,7 +6084,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF15</value>
+			<value>MEMBUF28</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -6606,7 +6606,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF2</value>
+			<value>MEMBUF5</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -7120,7 +7120,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF3</value>
+			<value>MEMBUF4</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -7634,7 +7634,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF4</value>
+			<value>MEMBUF9</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -8152,7 +8152,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF5</value>
+			<value>MEMBUF8</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -8670,7 +8670,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF6</value>
+			<value>MEMBUF13</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -9188,7 +9188,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF7</value>
+			<value>MEMBUF12</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -9750,7 +9750,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF8</value>
+			<value>MEMBUF17</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -10316,7 +10316,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>MEMBUF9</value>
+			<value>MEMBUF16</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
