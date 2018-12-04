@@ -1769,7 +1769,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM0</value>
+			<value>DIMM8</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -1816,7 +1816,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM1</value>
+			<value>DIMM9</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -1863,7 +1863,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM2</value>
+			<value>DIMM10</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -1910,7 +1910,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM3</value>
+			<value>DIMM11</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -1957,7 +1957,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM4</value>
+			<value>DIMM12</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -2016,7 +2016,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM5</value>
+			<value>DIMM13</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -2075,7 +2075,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM6</value>
+			<value>DIMM14</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -2134,7 +2134,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM7</value>
+			<value>DIMM15</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -2279,7 +2279,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM8</value>
+			<value>DIMM0</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -2326,7 +2326,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM9</value>
+			<value>DIMM1</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -2373,7 +2373,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM10</value>
+			<value>DIMM2</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -2420,7 +2420,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM11</value>
+			<value>DIMM3</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -2467,7 +2467,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM12</value>
+			<value>DIMM4</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -2526,7 +2526,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM13</value>
+			<value>DIMM5</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -2585,7 +2585,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM14</value>
+			<value>DIMM6</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -2644,7 +2644,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM15</value>
+			<value>DIMM7</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -3921,7 +3921,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM96</value>
+			<value>DIMM104</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -3980,7 +3980,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM97</value>
+			<value>DIMM105</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4039,7 +4039,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM98</value>
+			<value>DIMM106</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4098,7 +4098,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM99</value>
+			<value>DIMM107</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4157,7 +4157,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM100</value>
+			<value>DIMM108</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4216,7 +4216,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM101</value>
+			<value>DIMM109</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4275,7 +4275,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM102</value>
+			<value>DIMM110</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4334,7 +4334,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM103</value>
+			<value>DIMM111</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4487,7 +4487,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM104</value>
+			<value>DIMM96</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4546,7 +4546,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM105</value>
+			<value>DIMM97</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4605,7 +4605,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM106</value>
+			<value>DIMM98</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4664,7 +4664,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM107</value>
+			<value>DIMM99</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4723,7 +4723,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM108</value>
+			<value>DIMM100</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4782,7 +4782,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM109</value>
+			<value>DIMM101</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4841,7 +4841,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM110</value>
+			<value>DIMM102</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -4900,7 +4900,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM111</value>
+			<value>DIMM103</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -7217,7 +7217,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM32</value>
+			<value>DIMM40</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -7264,7 +7264,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM33</value>
+			<value>DIMM41</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -7311,7 +7311,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM34</value>
+			<value>DIMM42</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -7358,7 +7358,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM35</value>
+			<value>DIMM43</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -7405,7 +7405,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM36</value>
+			<value>DIMM44</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -7464,7 +7464,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM37</value>
+			<value>DIMM45</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -7523,7 +7523,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM38</value>
+			<value>DIMM46</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -7582,7 +7582,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM39</value>
+			<value>DIMM47</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -7735,7 +7735,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM40</value>
+			<value>DIMM32</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -7782,7 +7782,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM41</value>
+			<value>DIMM33</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -7829,7 +7829,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM42</value>
+			<value>DIMM34</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -7876,7 +7876,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM43</value>
+			<value>DIMM35</value>
 		</property>
 		<property>
 			<id>IO_CONFIG_SELECT</id>
@@ -7923,7 +7923,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM44</value>
+			<value>DIMM36</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -7982,7 +7982,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM45</value>
+			<value>DIMM37</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -8041,7 +8041,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM46</value>
+			<value>DIMM38</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -8100,7 +8100,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM47</value>
+			<value>DIMM39</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9285,7 +9285,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM64</value>
+			<value>DIMM72</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9344,7 +9344,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM65</value>
+			<value>DIMM73</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9403,7 +9403,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM66</value>
+			<value>DIMM74</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9462,7 +9462,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM67</value>
+			<value>DIMM75</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9521,7 +9521,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM68</value>
+			<value>DIMM76</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9580,7 +9580,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM69</value>
+			<value>DIMM77</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9639,7 +9639,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM70</value>
+			<value>DIMM78</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9698,7 +9698,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM71</value>
+			<value>DIMM79</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9851,7 +9851,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM72</value>
+			<value>DIMM64</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9910,7 +9910,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM73</value>
+			<value>DIMM65</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -9969,7 +9969,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM74</value>
+			<value>DIMM66</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -10028,7 +10028,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM75</value>
+			<value>DIMM67</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -10087,7 +10087,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM76</value>
+			<value>DIMM68</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -10146,7 +10146,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM77</value>
+			<value>DIMM69</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -10205,7 +10205,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM78</value>
+			<value>DIMM70</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
@@ -10264,7 +10264,7 @@
 		</property>
 		<property>
 			<id>FRU_NAME</id>
-			<value>DIMM79</value>
+			<value>DIMM71</value>
 		</property>
 		<property>
 			<id>INSTANCE_ID</id>
