@@ -11185,7 +11185,7 @@
 		</property>
 		<property>
 			<id>IPMI_SENSOR_ID</id>
-			<value>0xA9</value>
+			<value></value>
 		</property>
 	</globalSetting>
 	<globalSetting>
@@ -11827,7 +11827,7 @@
 		</property>
 		<property>
 			<id>IPMI_SENSOR_ID</id>
-			<value>0xAE</value>
+			<value></value>
 		</property>
 	</globalSetting>
 	<globalSetting>
@@ -12521,7 +12521,7 @@
 		</property>
 		<property>
 			<id>IPMI_SENSOR_ID</id>
-			<value>0xAF</value>
+			<value></value>
 		</property>
 	</globalSetting>
 	<globalSetting>
